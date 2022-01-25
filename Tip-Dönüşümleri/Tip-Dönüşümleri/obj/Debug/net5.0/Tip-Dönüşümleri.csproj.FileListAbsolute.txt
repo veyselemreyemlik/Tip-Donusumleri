@@ -1,0 +1,16 @@
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Tip-Dönüşümleri\Tip-Dönüşümleri\obj\Debug\net5.0\Tip-Dönüşümleri.csproj.AssemblyReference.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Tip-Dönüşümleri\Tip-Dönüşümleri\obj\Debug\net5.0\Tip-Dönüşümleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Tip-Dönüşümleri\Tip-Dönüşümleri\obj\Debug\net5.0\Tip-Dönüşümleri.AssemblyInfoInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Tip-Dönüşümleri\Tip-Dönüşümleri\obj\Debug\net5.0\Tip-Dönüşümleri.AssemblyInfo.cs
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Tip-Dönüşümleri\Tip-Dönüşümleri\obj\Debug\net5.0\Tip-Dönüşümleri.csproj.CoreCompileInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Tip-Dönüşümleri\Tip-Dönüşümleri\bin\Debug\net5.0\Tip-Dönüşümleri.exe
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Tip-Dönüşümleri\Tip-Dönüşümleri\bin\Debug\net5.0\Tip-Dönüşümleri.deps.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Tip-Dönüşümleri\Tip-Dönüşümleri\bin\Debug\net5.0\Tip-Dönüşümleri.runtimeconfig.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Tip-Dönüşümleri\Tip-Dönüşümleri\bin\Debug\net5.0\Tip-Dönüşümleri.runtimeconfig.dev.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Tip-Dönüşümleri\Tip-Dönüşümleri\bin\Debug\net5.0\Tip-Dönüşümleri.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Tip-Dönüşümleri\Tip-Dönüşümleri\bin\Debug\net5.0\ref\Tip-Dönüşümleri.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Tip-Dönüşümleri\Tip-Dönüşümleri\bin\Debug\net5.0\Tip-Dönüşümleri.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Tip-Dönüşümleri\Tip-Dönüşümleri\obj\Debug\net5.0\Tip-Dönüşümleri.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Tip-Dönüşümleri\Tip-Dönüşümleri\obj\Debug\net5.0\ref\Tip-Dönüşümleri.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Tip-Dönüşümleri\Tip-Dönüşümleri\obj\Debug\net5.0\Tip-Dönüşümleri.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Tip-Dönüşümleri\Tip-Dönüşümleri\obj\Debug\net5.0\Tip-Dönüşümleri.genruntimeconfig.cache
